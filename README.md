@@ -8,7 +8,7 @@ actuarial risk hedge management
 
 # TODO List
 
-### 시스템 설계
+### 1. 시스템 설계
 필요목록 정리
 ESG... DB 등등
 
